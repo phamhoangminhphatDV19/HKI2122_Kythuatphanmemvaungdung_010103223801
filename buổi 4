@@ -27,3 +27,4 @@ def print_result(k):
 if __name__ == "__main__":
      i = int(input("Nhap so dung de kiem tra: "))
      print_result(not_prime_while(i))
+end:
